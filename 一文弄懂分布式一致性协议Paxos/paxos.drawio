@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T13:39:14.348Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hJJnpEB14_UyCr8zLGYv" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T13:39:30.431Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CvJM1jU3M0Ie-uT1Gqxl" version="21.7.2" type="github">
   <diagram name="第 1 页" id="v4rp2MU2DIvw7WmQTmr3">
     <mxGraphModel dx="1254" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -717,7 +717,7 @@
           <mxGeometry x="111" y="2810" width="20" height="240" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-186" value="Prepare阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="2915" width="91" height="30" as="geometry" />
+          <mxGeometry x="11" y="2915" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-187" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="FyVBpPdO0nm0Gu7SyeVc-175">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -854,7 +854,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-211" value="Accept阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="3210" width="91" height="30" as="geometry" />
+          <mxGeometry x="7" y="3210" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
