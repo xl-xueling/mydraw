@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T04:41:22.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uFjTtldQaPEn6ttavT2v" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T04:44:11.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="44u_edMQXzqtIUzLcBce" version="21.7.2" type="github">
   <diagram name="第 1 页" id="v4rp2MU2DIvw7WmQTmr3">
     <mxGraphModel dx="1254" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           <mxGeometry x="111" y="860" width="100" height="791" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="FyVBpPdO0nm0Gu7SyeVc-69">
-          <mxGeometry x="45" y="309" width="10" height="240" as="geometry" />
+          <mxGeometry x="45" y="309" width="10" height="211" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-105" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="FyVBpPdO0nm0Gu7SyeVc-69">
           <mxGeometry x="45" y="593" width="10" height="240" as="geometry" />
@@ -261,8 +261,8 @@
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="166" y="1182" as="sourcePoint" />
-            <mxPoint x="341" y="1182" as="targetPoint" />
+            <mxPoint x="166" y="1186" as="sourcePoint" />
+            <mxPoint x="341" y="1186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-75" value="Prepare(1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FyVBpPdO0nm0Gu7SyeVc-74">
@@ -294,8 +294,8 @@
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-80" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="341" y="1213" as="sourcePoint" />
-            <mxPoint x="166" y="1213" as="targetPoint" />
+            <mxPoint x="340" y="1217" as="sourcePoint" />
+            <mxPoint x="165" y="1217" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -305,10 +305,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="118" y="1170" width="20" height="240" as="geometry" />
+          <mxGeometry x="118" y="1170" width="20" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-83" value="第一轮：Prepare阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1274" width="91" height="30" as="geometry" />
+          <mxGeometry x="10" y="1261" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-84" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -324,8 +324,8 @@
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-86" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650.5" y="1379" as="sourcePoint" />
-            <mxPoint x="170" y="1379" as="targetPoint" />
+            <mxPoint x="650.5" y="1370" as="sourcePoint" />
+            <mxPoint x="170" y="1370" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -420,6 +420,29 @@
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-121" value="Accept阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="1140" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="812.5" y="1138" as="sourcePoint" />
+            <mxPoint x="340" y="1138" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-123" value="Accept(2,&#39;orange&#39;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FyVBpPdO0nm0Gu7SyeVc-122">
+          <mxGeometry x="-0.1657" y="-10" relative="1" as="geometry">
+            <mxPoint x="-22" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-124" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1168" as="sourcePoint" />
+            <mxPoint x="816" y="1168" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-125" value="Accepted(2,&#39;organge&#39;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FyVBpPdO0nm0Gu7SyeVc-124">
+          <mxGeometry x="-0.0171" y="-10" relative="1" as="geometry">
+            <mxPoint x="21" y="-21" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
