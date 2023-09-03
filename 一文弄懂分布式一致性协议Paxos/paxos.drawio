@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T07:17:16.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GvOjy0mXm9AS9jL0QrAn" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T07:22:23.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UZuZr0Gek6yjLeEQGr1x" version="21.7.2" type="github">
   <diagram name="第 1 页" id="v4rp2MU2DIvw7WmQTmr3">
     <mxGraphModel dx="1254" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1406,19 +1406,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-416" value="更新各节点的事务日志表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="4960" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-417" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="719" y="4784.5" as="sourcePoint" />
-            <mxPoint x="783" y="4784.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="759" y="4784.5" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="544" y="4960" width="157" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-418" value="从事务日志表中，获取漏掉的操作并执行，并重新发起Paxos协商。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="4760" width="120" height="60" as="geometry" />
+          <mxGeometry x="743" y="4850" width="187" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-426" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="4780" as="sourcePoint" />
+            <mxPoint x="812" y="4829.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-429" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.85;exitY=0.534;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FyVBpPdO0nm0Gu7SyeVc-404">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780.9042744479501" y="5048.56" as="sourcePoint" />
+            <mxPoint x="721.09" y="4980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="721.09" y="4980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
