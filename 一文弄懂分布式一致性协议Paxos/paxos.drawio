@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T06:03:28.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="psukAZxtWtLRgd353CjH" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T06:05:20.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IkW4GAetk54w-1EEES9C" version="21.7.2" type="github">
   <diagram name="第 1 页" id="v4rp2MU2DIvw7WmQTmr3">
     <mxGraphModel dx="1254" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1297,14 +1297,35 @@
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-386" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="301" y="4470" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-389" value="DB数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="4580" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-390" value="Op1：Put(a,&#39;1&#39;);&lt;br&gt;Op2：Pub(b,&#39;2&#39;);&lt;br&gt;Op3：update(a,&#39;3&#39;);&lt;br&gt;Op4：Put(c,&#39;10&#39;)&lt;br&gt;Op4：Delete(b);" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="555" y="4435" width="160" height="100" as="geometry" />
+          <mxGeometry x="608" y="4422.5" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FyVBpPdO0nm0Gu7SyeVc-391" value="a：3&lt;br&gt;c：10" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="558" y="4565" width="155" height="90" as="geometry" />
+          <mxGeometry x="613" y="4553" width="155" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-393" value="事务日志表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="4435" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-394" value="DB数据表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="4550" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-396" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532" y="4469" as="sourcePoint" />
+            <mxPoint x="596" y="4469" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="572" y="4469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FyVBpPdO0nm0Gu7SyeVc-397" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="534" y="4590" as="sourcePoint" />
+            <mxPoint x="598" y="4590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="574" y="4590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
