@@ -161,7 +161,7 @@
           <mxGeometry x="360" y="867" width="340" height="202" as="geometry" />
         </mxCell>
         <mxCell id="JadHm6w2A9o158eFmOsi-33" value="指标&lt;div&gt;路由&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="591" y="940" width="60" height="60" as="geometry" />
+          <mxGeometry x="595" y="940" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JadHm6w2A9o158eFmOsi-34" value="通用型流式统计服务2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="432" y="975" width="118.5" height="30" as="geometry" />
