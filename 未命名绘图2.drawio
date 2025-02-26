@@ -180,8 +180,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JadHm6w2A9o158eFmOsi-37" value="数据中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="504" y="1069" width="85" height="30" as="geometry" />
+        <mxCell id="JadHm6w2A9o158eFmOsi-37" value="数据中心内部结构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1069" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JadHm6w2A9o158eFmOsi-38" value="通用型流式统计服务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="432" y="934" width="118.5" height="30" as="geometry" />
