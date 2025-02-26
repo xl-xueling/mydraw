@@ -186,28 +186,28 @@
         <mxCell id="JadHm6w2A9o158eFmOsi-38" value="通用型流式统计服务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="432" y="934" width="118.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JadHm6w2A9o158eFmOsi-39" value="数据提供方1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="JadHm6w2A9o158eFmOsi-39" value="商品提供方1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="1515" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JadHm6w2A9o158eFmOsi-40" value="数据提供方2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="JadHm6w2A9o158eFmOsi-40" value="商品提供方2" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="1575" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JadHm6w2A9o158eFmOsi-41" value="商户A" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JadHm6w2A9o158eFmOsi-42" value="数据提供方3" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="JadHm6w2A9o158eFmOsi-42" value="商品提供方3" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="200" y="1635" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JadHm6w2A9o158eFmOsi-43" value="商户B" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1555" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JadHm6w2A9o158eFmOsi-44" value="数据提供方4" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="JadHm6w2A9o158eFmOsi-44" value="商品提供方4" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="815.5" y="1500" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JadHm6w2A9o158eFmOsi-45" value="数据提供方5" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="JadHm6w2A9o158eFmOsi-45" value="商品提供方5" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="815.5" y="1570" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JadHm6w2A9o158eFmOsi-46" value="数据提供方6" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="JadHm6w2A9o158eFmOsi-46" value="商品提供方6" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="815.5" y="1650" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JadHm6w2A9o158eFmOsi-47" value="" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=-0.027;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JadHm6w2A9o158eFmOsi-44" target="JadHm6w2A9o158eFmOsi-43">
