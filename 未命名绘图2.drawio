@@ -674,13 +674,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J39QNY5taY0jpt4NfU4f-165" value="数据中心1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1179.25" y="2969" width="110" height="68" as="geometry" />
+          <mxGeometry x="1185.25" y="2969" width="110" height="68" as="geometry" />
         </mxCell>
         <mxCell id="J39QNY5taY0jpt4NfU4f-166" value="数据中心2" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1179.25" y="3034" width="110" height="68" as="geometry" />
+          <mxGeometry x="1185.25" y="3034" width="110" height="68" as="geometry" />
         </mxCell>
         <mxCell id="J39QNY5taY0jpt4NfU4f-167" value="数据中心3" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1179.25" y="3099" width="110" height="68" as="geometry" />
+          <mxGeometry x="1185.25" y="3099" width="110" height="68" as="geometry" />
         </mxCell>
         <mxCell id="J39QNY5taY0jpt4NfU4f-168" value="聚合服务" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.29411764705882354;strokeColor=light-dark(#635f5f, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1007" y="3040" width="99.25" height="51" as="geometry" />
