@@ -686,7 +686,7 @@
           <mxGeometry x="1007" y="3026" width="99.25" height="51" as="geometry" />
         </mxCell>
         <mxCell id="J39QNY5taY0jpt4NfU4f-169" value="数据提供方2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="2944.5" width="75" height="30" as="geometry" />
+          <mxGeometry x="1001" y="2944.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J39QNY5taY0jpt4NfU4f-172" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10.666666666666666;endSize=5.773333333333333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
