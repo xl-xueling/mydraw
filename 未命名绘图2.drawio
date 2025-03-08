@@ -618,6 +618,9 @@
         <mxCell id="J39QNY5taY0jpt4NfU4f-72" value="数据中心3" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140.25" y="3040" width="110" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="J39QNY5taY0jpt4NfU4f-73" value="聚合服务" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;strokeColor=light-dark(#635f5f, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="355" y="2991" width="73" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
