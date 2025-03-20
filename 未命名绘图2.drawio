@@ -604,6 +604,18 @@
             <mxPoint x="1010" y="2570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="f86BnIumc0eNxMpxsJHb-15" value="SQL查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2460" width="59" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f86BnIumc0eNxMpxsJHb-16" value="数据返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="2508" width="59" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f86BnIumc0eNxMpxsJHb-17" value="SQL查询" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="971" y="2460" width="59" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f86BnIumc0eNxMpxsJHb-18" value="数据返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895.5" y="2508" width="59" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
