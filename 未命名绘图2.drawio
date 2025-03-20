@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1254" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1672" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,7 +557,7 @@
           <mxGeometry x="1409" y="3058" width="98" height="58.8" as="geometry" />
         </mxCell>
         <mxCell id="J39QNY5taY0jpt4NfU4f-178" value="数据接入方4" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" parent="1" vertex="1">
-          <mxGeometry x="1411" y="3121.5" width="98" height="58.8" as="geometry" />
+          <mxGeometry x="1411" y="3121.5" width="97.5" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
