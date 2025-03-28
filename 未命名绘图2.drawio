@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1254" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1672" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -622,7 +622,7 @@
         <mxCell id="f86BnIumc0eNxMpxsJHb-24" value="Data Table3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="378.25" y="2821.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-1" value="电商平台" style="shape=switch;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-1" value="电商交易平台" style="shape=switch;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="3630" width="332.25" height="123" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-2" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -674,7 +674,7 @@
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-12" value="商品管理客户端" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.29411764705882354;strokeColor=light-dark(#635f5f, #ededed);" vertex="1" parent="1">
           <mxGeometry x="479.25" y="3861" width="99.25" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-13" value="商户1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-13" value="入驻商户1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="3779.5" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -743,7 +743,7 @@
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-28" value="商品管理客户端" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.29411764705882354;strokeColor=light-dark(#635f5f, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1035" y="3865.3" width="99.25" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-29" value="商户2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-29" value="入驻商户2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1029" y="3783.8" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10.666666666666666;endSize=5.773333333333333;" edge="1" parent="1">
