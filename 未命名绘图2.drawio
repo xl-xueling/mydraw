@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-106" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#EAF8FF;" vertex="1" parent="1">
+          <mxGeometry x="465" y="4500" width="795" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-78" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFE8AA;" vertex="1" parent="1">
           <mxGeometry x="355" y="4150" width="902.5" height="250" as="geometry" />
         </mxCell>
@@ -768,30 +771,30 @@
           <mxGeometry x="1439" y="3960.8" width="97.5" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-35" value="交易监管方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1141.5" y="4510" width="116" height="60" as="geometry" />
+          <mxGeometry x="1118.5" y="4510" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-36" value="数据提供方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="488" y="4520" width="125" height="100" as="geometry" />
+          <mxGeometry x="490.25" y="4530" width="132" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-38" value="数据接入方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="4515" width="74.75" height="35" as="geometry" />
+          <mxGeometry x="301" y="4515" width="84.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-39" value="数据接入方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="321" y="4580" width="73.75" height="35" as="geometry" />
+          <mxGeometry x="301" y="4580" width="84.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=6.773333333333333;endWidth=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.75" y="4564.5" as="sourcePoint" />
-            <mxPoint x="464.75" y="4564.5" as="targetPoint" />
+            <mxPoint x="395.75" y="4569.5" as="sourcePoint" />
+            <mxPoint x="445.75" y="4569.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-41" value="数据使用方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="4690" width="82.37" height="40" as="geometry" />
+          <mxGeometry x="752" y="4733" width="82.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=4.58;endWidth=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="648.75" y="4560" as="sourcePoint" />
-            <mxPoint x="718.75" y="4560" as="targetPoint" />
+            <mxPoint x="648.75" y="4569.5" as="sourcePoint" />
+            <mxPoint x="718.75" y="4569.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=4.58;endWidth=24;" edge="1" parent="1">
@@ -804,19 +807,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-46" value="交易监管方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1144.94" y="4585" width="112.56" height="60" as="geometry" />
+          <mxGeometry x="1121.94" y="4585" width="112.56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-47" value="数据交易平台" style="shape=switch;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="731.28" y="4510" width="223.97" height="120" as="geometry" />
+          <mxGeometry x="731.28" y="4515" width="223.97" height="115" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=4.58;endWidth=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="842.76" y="4632" as="sourcePoint" />
-            <mxPoint x="842.76" y="4675" as="targetPoint" />
+            <mxPoint x="844.76" y="4658" as="sourcePoint" />
+            <mxPoint x="845" y="4720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="4690" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-51" value="数据使用方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="857.91" y="4690" width="82.37" height="40" as="geometry" />
+          <mxGeometry x="854.91" y="4733" width="82.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-63" value="实时类数据交易凭证" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;startSize=21;" vertex="1" parent="1">
           <mxGeometry x="479.19" y="4070" width="210.04" height="413.55" as="geometry" />
@@ -907,10 +913,10 @@
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-104" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1111" y="4500" as="sourcePoint" />
-            <mxPoint x="1071" y="4410" as="targetPoint" />
+            <mxPoint x="1173" y="4500" as="sourcePoint" />
+            <mxPoint x="1133" y="4410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1109.57" y="4460" />
+              <mxPoint x="1171.57" y="4460" />
             </Array>
           </mxGeometry>
         </mxCell>
