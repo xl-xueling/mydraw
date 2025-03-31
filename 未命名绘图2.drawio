@@ -819,7 +819,7 @@
           <mxGeometry x="783.4399999999999" y="4640" width="82.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-53" value="交易凭证" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="671.35" y="4150" width="235.99999999999997" height="270.31" as="geometry" />
+          <mxGeometry x="671.35" y="4100" width="235.99999999999997" height="270.31" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-54" value="数据提供方标识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-53">
           <mxGeometry x="-10.680000000000001" y="60.15" width="117.35" height="30" as="geometry" />
