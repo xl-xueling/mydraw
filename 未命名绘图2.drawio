@@ -893,6 +893,9 @@
             <mxPoint x="799.38" y="4390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-80" value="数据引用链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="4170" width="117.35" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
