@@ -849,7 +849,7 @@
           <mxGeometry x="118.64999999999998" y="140.15" width="117.35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-63" value="实时类数据交易凭证" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="510" y="4110" width="235.99999999999997" height="270.31" as="geometry" />
+          <mxGeometry x="510" y="4110" width="236.66999999999993" height="270.31" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-64" value="数据提供方标识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
           <mxGeometry x="-10.680000000000001" y="60.15" width="117.35" height="30" as="geometry" />
@@ -863,20 +863,20 @@
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-67" value="数据标号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
           <mxGeometry x="119.31999999999998" y="100.15" width="117.35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-68" value="数据批号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-68" value="数据使用时间范围" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
           <mxGeometry x="-10.680000000000023" y="140.15" width="117.35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-69" value="授权使用范围" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
           <mxGeometry x="-10.680000000000021" y="180.15" width="117.35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-70" value="授权期限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-70" value="授权期限时长" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
           <mxGeometry x="-10.680000000000023" y="210.15" width="117.35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-71" value="数据付费/销售分成方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
-          <mxGeometry x="129.31999999999996" y="210.15" width="117.35" height="30" as="geometry" />
+          <mxGeometry x="119.31999999999996" y="190" width="117.35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-72" value="数据文件Hash校验码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
-          <mxGeometry x="118.64999999999998" y="140.15" width="117.35" height="30" as="geometry" />
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-73" value="数据筛选范围" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
+          <mxGeometry x="119.31999999999994" y="140" width="117.35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
