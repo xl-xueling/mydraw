@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="473" y="4430" width="617" height="150" as="geometry" />
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-78" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFE8AA;" vertex="1" parent="1">
+          <mxGeometry x="475" y="4110.31" width="684.25" height="269.69" as="geometry" />
+        </mxCell>
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#DBE9FF;" vertex="1" parent="1">
+          <mxGeometry x="492.25" y="4450" width="632" height="210" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-12" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" source="1ea317790d2ca983-1" target="1ea317790d2ca983-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -768,58 +771,58 @@
           <mxGeometry x="1439" y="3960.8" width="97.5" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-35" value="交易监管方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="947.25" y="4455" width="115.5" height="50" as="geometry" />
+          <mxGeometry x="972.25" y="4505" width="115.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-36" value="数据提供方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="4470" width="95" height="60" as="geometry" />
+          <mxGeometry x="510" y="4520" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-38" value="数据接入方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="4465" width="74.75" height="35" as="geometry" />
+          <mxGeometry x="345" y="4515" width="74.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-39" value="数据接入方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="4505" width="73.75" height="35" as="geometry" />
+          <mxGeometry x="345" y="4555" width="73.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=6.773333333333333;endWidth=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.75" y="4499.5" as="sourcePoint" />
-            <mxPoint x="464.75" y="4499.5" as="targetPoint" />
+            <mxPoint x="439.75" y="4549.5" as="sourcePoint" />
+            <mxPoint x="489.75" y="4549.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-41" value="数据使用方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="680.53" y="4640" width="82.37" height="40" as="geometry" />
+          <mxGeometry x="705.53" y="4690" width="82.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=4.58;endWidth=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="614.25" y="4500" as="sourcePoint" />
-            <mxPoint x="664.25" y="4500" as="targetPoint" />
+            <mxPoint x="639.25" y="4550" as="sourcePoint" />
+            <mxPoint x="689.25" y="4550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=4.58;endWidth=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="867" y="4505" as="sourcePoint" />
-            <mxPoint x="917" y="4505" as="targetPoint" />
+            <mxPoint x="892" y="4555" as="sourcePoint" />
+            <mxPoint x="942" y="4555" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="897" y="4505" />
+              <mxPoint x="922" y="4555" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-46" value="交易监管方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="950.38" y="4510" width="112.37" height="50" as="geometry" />
+          <mxGeometry x="975.38" y="4560" width="112.37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-47" value="数据交易平台" style="shape=switch;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680.53" y="4460" width="171.94" height="90" as="geometry" />
+          <mxGeometry x="705.53" y="4510" width="171.94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=4.58;endWidth=24;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770.13" y="4590" as="sourcePoint" />
-            <mxPoint x="770.13" y="4633" as="targetPoint" />
+            <mxPoint x="795.13" y="4640" as="sourcePoint" />
+            <mxPoint x="795.13" y="4683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-51" value="数据使用方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="783.4399999999999" y="4640" width="82.37" height="40" as="geometry" />
+          <mxGeometry x="808.4399999999999" y="4690" width="82.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-53" value="文件类数据交易凭证" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="815" y="4110" width="235.99999999999997" height="270.31" as="geometry" />
+          <mxGeometry x="840" y="4110" width="235.99999999999997" height="270.31" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-54" value="数据提供方标识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-53">
           <mxGeometry x="-10.680000000000001" y="60.15" width="117.35" height="30" as="geometry" />
@@ -843,13 +846,16 @@
           <mxGeometry x="-10.680000000000023" y="210.15" width="117.35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-61" value="数据付费/销售分成方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-53">
-          <mxGeometry x="129.31999999999996" y="210.15" width="117.35" height="30" as="geometry" />
+          <mxGeometry x="119.31999999999996" y="190" width="117.35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-62" value="数据文件Hash校验码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-53">
           <mxGeometry x="118.64999999999998" y="140.15" width="117.35" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-76" value="访问授权码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-53">
+          <mxGeometry x="118.64999999999986" y="230" width="117.35" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-63" value="实时类数据交易凭证" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="485" y="4110" width="236.66999999999993" height="270.31" as="geometry" />
+          <mxGeometry x="510" y="4110" width="236.66999999999993" height="270.31" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-64" value="数据提供方标识" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
           <mxGeometry x="-10.680000000000001" y="60.15" width="117.35" height="30" as="geometry" />
@@ -877,6 +883,15 @@
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-73" value="数据筛选范围" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
           <mxGeometry x="119.31999999999994" y="140" width="117.35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-75" value="访问授权码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;dashed=1;" vertex="1" parent="WbFGJnLKmoSwMzdrF1fv-63">
+          <mxGeometry x="119.31999999999994" y="230" width="117.35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-79" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=12;endSize=4.02;endWidth=24;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="4430" as="sourcePoint" />
+            <mxPoint x="799.38" y="4390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
