@@ -782,10 +782,10 @@
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-39" value="数据接入方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="301" y="4623" width="84.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=6.773333333333333;endWidth=24;" edge="1" parent="1">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=8;endSize=7.25;endWidth=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="395.75" y="4612.5" as="sourcePoint" />
-            <mxPoint x="445.75" y="4612.5" as="targetPoint" />
+            <mxPoint x="398.75" y="4612.5" as="sourcePoint" />
+            <mxPoint x="448.75" y="4612.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-41" value="数据使用方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
