@@ -770,7 +770,7 @@
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-34" value="商品供货方4" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="1439" y="3960.8" width="97.5" height="58.5" as="geometry" />
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-35" value="交易监管方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-35" value="交易存证服务" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1103.5" y="4550" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-36" value="数据提供方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -806,7 +806,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WbFGJnLKmoSwMzdrF1fv-46" value="交易监管方" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WbFGJnLKmoSwMzdrF1fv-46" value="交易存证服务" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1106.94" y="4625" width="112.56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WbFGJnLKmoSwMzdrF1fv-47" value="数据交易平台" style="shape=switch;whiteSpace=wrap;html=1;" vertex="1" parent="1">
